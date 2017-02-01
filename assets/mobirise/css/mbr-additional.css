@@ -524,6 +524,9 @@ h6,
   font-family: 'PT Serif', serif;
   color: #ffffff;
 }
+#form1-p SMALL {
+  color: #cccccc;
+}
 #social-buttons2-5 .mbr-section-title,
 #social-buttons2-5 .btn-social {
   color: #232323;

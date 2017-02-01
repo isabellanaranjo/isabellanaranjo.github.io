@@ -508,6 +508,9 @@
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
               "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#cccccc"
             }
           },
           "_anchor": "form1-p",
