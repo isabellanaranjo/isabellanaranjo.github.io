@@ -502,22 +502,23 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "form1-p",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#392e49",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
