@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 52,
-    "versionPublish": "3.10.5"
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "index.html": {
@@ -1087,18 +1087,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tattoo-2000x1907-800x762.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tattoo-2000x1907.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/google-piece-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/google-piece-2000x2500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dmd-1-2000x1954-800x781.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dmd-1-2000x1954.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dmd-1-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dmd-1-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1107,8 +1107,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dmd-2-2000x2156-800x862.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dmd-2-2000x2156.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dmd-2-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dmd-2-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1117,8 +1117,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dmd-3-2000x2052-800x820.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dmd-3-2000x2052.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dmd-3-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dmd-3-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1127,8 +1127,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/my-face-14-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/my-face-14-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/my-face-14-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/my-face-14-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1137,8 +1137,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wynwood-walls-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wynwood-walls-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wynwood-walls-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wynwood-walls-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1147,8 +1147,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-vintage-television-2000x1490-800x596.jpg",
-                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-vintage-television-2000x1490.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vintage-television-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vintage-television-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1157,8 +1157,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/propeller-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/propeller-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/propeller-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/propeller-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1167,10 +1167,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wings-1-2000x2472-800x988.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wings-1-2000x2472.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wings-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wings-2000x2500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "6",
@@ -1322,28 +1322,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-restoration-2000x1241-800x496.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-restoration-2000x1241.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/project-3-2000x2588-800x1035.jpg",
-                "image": "@PROJECT_PATH@/assets/images/project-3-2000x2588.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/m-pop-poster-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/m-pop-poster-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/60s-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/60s-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1352,23 +1332,43 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mas-collage-project-2-2000x1438-800x575.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mas-collage-project-2-2000x1438.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collage-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collage-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mpop-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mpop-2000x2500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-restoration-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-restoration-2000x2500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/project-3-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/project-3-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": "6",
+            "spacing": "4",
             "showText": false,
             "filter": false,
             "bgColor": "#392e49",
@@ -1556,128 +1556,6 @@
           "_anchor": "gallery1-15",
           "articleLayout": false,
           "allItem": "All"
-        }
-      ]
-    },
-    "Word.html": {
-      "settings": {},
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0f0c14"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#20182b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#271e35"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#632261!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1e",
-          "_params": {
-            "bgColor": "#271e35",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Merriweather",
-              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "css": "'Merriweather', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cursive-name-627x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\" aria-expanded=\"false\">LOGO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Introduction / Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-9\">Background</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features7-k\" aria-expanded=\"false\">Goals / Achievements</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Dreamweaver</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://isabellanaranjo.github.io/Discuss IT Topic 6.pdf\" target=\"_blank\">Microsoft Word<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Microsoft Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"3D Design.html\">123DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Certification PDF.html\" target=\"_blank\">Industry Certifications Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAT &amp; ACT SCORES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community Leader Recommendation 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community Leader Recommendation 2</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#social-buttons2-5\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-5\">Social Platforms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-p\">Submission Form</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-1f",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1478401925243-937bbe0eb564-2000x1225-19.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#000000"
-          },
-          "text": "Copyright (c) Isabella Naranjo 2017<br><br>"
         }
       ]
     }
