@@ -13,6 +13,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -517,6 +519,15 @@ h6,
   font-family: 'PT Serif', serif;
   text-align: center;
 }
+#msg-box4-1g H3 {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+}
+#msg-box4-1g P {
+  color: #ffffff;
+  text-align: center;
+}
 #form1-p .form-control-label {
   color: #ffffff;
 }
@@ -533,6 +544,7 @@ h6,
 }
 #social-buttons2-5 .mbr-section-title {
   color: #ffffff;
+  font-family: 'PT Serif', serif;
 }
 #footer1-8 P {
   color: #ffffff;
