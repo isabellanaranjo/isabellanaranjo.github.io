@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Isabella Naranjo Portfolio",
-    "currentPage": "Certification PDF.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -161,7 +161,7 @@
           },
           "title": "Isabella Naranjo",
           "text": "\"Transform creativity into art.\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Gallery</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#gallery3-21\" data-toolbar=\"-mbrBtnMove\">Gallery</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>"
         },
         {
           "_inherit": "content5",
@@ -199,7 +199,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.6",
             "overlayColor": "#271e35",
             "showTitle": true,
             "showCaption": true
@@ -222,18 +222,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dmd-1-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dmd-1-2000x2500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wings-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wings-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -242,8 +242,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-restoration-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-restoration-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -252,10 +252,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mpop-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mpop-2000x2500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -719,7 +719,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1054,7 +1054,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1331,7 +1331,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1590,7 +1590,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13334.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
