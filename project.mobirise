@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 92,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 93,
+    "versionPublish": "3.10.5"
   },
   "pages": {
     "index.html": {
@@ -227,9 +227,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dmd-1-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dmd-1-2000x2500.jpg",
-                "caption": "DMD Patch: Level 1",
+                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-1-2000x1333.jpg",
+                "caption": "Famous Artist Reproduction 1",
                 "active": false
               },
               {
@@ -237,9 +237,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wings-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wings-2000x2500.jpg",
-                "caption": "Stork Concept Wings",
+                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-2-2000x1333.jpg",
+                "caption": "Famous Artist Reproduction 2",
                 "active": false
               },
               {
@@ -247,9 +247,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-restoration-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-restoration-2000x2500.jpg",
-                "caption": "Fair Competition: Photo Restoration",
+                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-3-2000x1333.jpg",
+                "caption": "Famous Artist Reproduction 3",
                 "active": false
               },
               {
@@ -257,9 +257,49 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mpop-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mpop-2000x2500.jpg",
-                "caption": "Pop Concert: MPOP<br>",
+                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-4-2000x1333.jpg",
+                "caption": "Famous Artist Reproduction 4",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-5-2000x1333.jpg",
+                "caption": "Famous Artist Reproduction 5",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-6-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-6-2000x1333.jpg",
+                "caption": "Famous Artist Reproduction 6",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-7-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-7-2000x1333.jpg",
+                "caption": "Famous Artist Reproduction 7",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-8-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/isabella-naranjo-progress-8-2000x1333.jpg",
+                "caption": "Famous Artist Reproduction 8",
                 "active": true
               }
             ],
@@ -647,6 +687,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "4",
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1254.jpg",
@@ -656,11 +700,7 @@
             "overlayOpacity": "0.8",
             "overlayColor": "#271e35",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": "4",
-            "showImages": false,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": true
           },
           "title": "References&nbsp;",
           "subtitle": "Community Leader Recommendations"
@@ -999,7 +1039,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1400,7 +1440,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1743,7 +1783,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -2068,7 +2108,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
