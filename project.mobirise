@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 95,
+    "uniqCompNum": 96,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -183,10 +183,10 @@
             "Theme"
           ],
           "_name": "content8",
-          "_anchor": "content8-24",
+          "_anchor": "content8-2n",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "5",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
@@ -195,17 +195,17 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/jw9P4egrco0?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/jmOTSiG-6vk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#271e35",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
           },
-          "title": "In Action",
-          "caption": "<p>A video of me working on some projects.</p>"
+          "title": "Introduction Video",
+          "caption": "<p>Indroductory video roughdraft of me as an artist and goals for the future.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Watch here: https://www.youtube.com/watch?v=jmOTSiG-6vk&nbsp;</span></p>"
         },
         {
           "_tags": [
