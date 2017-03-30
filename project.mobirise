@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 96,
+    "uniqCompNum": 97,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -164,48 +164,67 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#gallery3-21\" data-toolbar=\"-mbrBtnMove\">Gallery</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Isabella Naranjo.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>"
         },
         {
-          "_inherit": "content5",
+          "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
+            ".mbr-section-title, .lead p": {
               "color": "#fff"
             },
-            ".mbr-section-title": {
+            "H3": {
               "text-align": "center",
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-2n",
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-2o",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
+            "imageSize": "50",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1260.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/jmOTSiG-6vk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#1c0e31",
+            "inverse": false,
             "showTitle": true,
-            "showCaption": true
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "Indroductory video roughdraft of me as an artist and goals for the future.  Watch here: https://www.youtube.com/watch?v=jmOTSiG-6vk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
           },
           "title": "Introduction Video",
-          "caption": "<p>Indroductory video roughdraft of me as an artist and goals for the future.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Watch here: https://www.youtube.com/watch?v=jmOTSiG-6vk&nbsp;</span></p>"
+          "text": "Indroductory video roughdraft of me as an artist and goals for the future.<br><br>Watch here: https://www.youtube.com/watch?v=jmOTSiG-6vk.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -1176,7 +1195,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1577,7 +1596,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1920,7 +1939,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -2245,7 +2264,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,

@@ -487,17 +487,16 @@ h6,
 #header1-1z .mbr-section-title {
   font-family: 'PT Serif', serif;
 }
-#content8-2n .mbr-section-title,
-#content8-2n p {
-  text-align: right;
+#msg-box7-2o .mbr-section-title,
+#msg-box7-2o .lead p {
   color: #fff;
 }
-#content8-2n .mbr-section-title {
+#msg-box7-2o H3 {
   text-align: center;
   font-family: 'PT Serif', serif;
 }
-#content8-2n P {
-  text-align: center;
+#msg-box7-2o P {
+  text-align: left;
 }
 #form1-26 .form-control-label {
   color: #ffffff;
