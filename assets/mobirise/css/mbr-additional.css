@@ -12,6 +12,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -497,6 +498,18 @@ h6,
   font-size: 36px;
 }
 #msg-box7-2o P {
+  text-align: center;
+}
+#msg-box7-32 .mbr-section-title,
+#msg-box7-32 .lead p {
+  color: #fff;
+}
+#msg-box7-32 H3 {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  font-size: 36px;
+}
+#msg-box7-32 P {
   text-align: center;
 }
 #form1-26 .form-control-label {
